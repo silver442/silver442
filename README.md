@@ -53,9 +53,7 @@ Actualmente trabajo en **BAINUB** desarrollando interfaces para una plataforma B
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=silver442&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silver442&layout=compact&theme=tokyonight&hide_border=true&langs_count=7)
+[![GitHub Streak](https://streak-stats.demolab.com?user=silver442&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 </div>
 
