@@ -1,29 +1,26 @@
 <div align="center">
   <h1>Hola, soy Silvestre 👋</h1>
-  <h3>Developer con base en Monterrey, México</h3>
-  <p><em>"Si el código no me enseña algo nuevo, algo está mal."</em></p>
-  
+  <h3>Ingeniero en Tecnología de Software</h3>
+
   [![Portfolio](https://img.shields.io/badge/Portfolio-silverdev.net-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://silverdev.net/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-silvestre--hernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvestre-hernandez-822240244)
-  [![Email](https://img.shields.io/badge/Email-silvestre.hdz.h@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silvestre.hdz.h@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Silvestre%20Hernandez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvestre-hernandez-822240244)
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Empecé a programar porque quería entender cómo funcionaban las cosas — no solo usarlas. Soy Ingeniero en Tecnología de Software por la UANL, con experiencia sólida en frontend y en transición activa hacia el stack completo.
 
-Actualmente trabajo en **BAINUB** desarrollando interfaces y funcionalidades para una plataforma B2B, y en paralelo profundizo en **Next.js** y **NestJS** para cubrir todo el stack.
+Actualmente trabajo en **BAINUB** desarrollando interfaces para una plataforma B2B, y en paralelo profundizo en **Next.js** y **NestJS**.
 
-- 🔭 Trabajando en: Mi portafolio personal y proyectos FullStack
+- 🔭 Trabajando en: Mi portafolio y proyectos FullStack
 - 🌱 Aprendiendo: Next.js, NestJS, TypeScript
 - 💡 Me mueve: Resolver problemas y entender cómo funciona todo, de punta a punta
-- 📍 Basado en: Monterrey, Nuevo León
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 **Frontend**
 
@@ -31,6 +28,7 @@ Actualmente trabajo en **BAINUB** desarrollando interfaces y funcionalidades par
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Backend & DB**
@@ -47,31 +45,29 @@ Actualmente trabajo en **BAINUB** desarrollando interfaces y funcionalidades par
 **Herramientas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silver442&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silver442&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silver442&theme=tokyonight&hide_border=true" />
+![Stats](https://github-readme-stats.vercel.app/api?username=silver442&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silver442&layout=compact&theme=tokyonight&hide_border=true&langs_count=7)
+
 </div>
 
 ---
 
-## 💼 Experiencia
+## Experiencia
 
 **BAINUB** — Developer Frontend *(Marzo 2025 - Actualidad)*
-> Desarrollo de interfaces UI y nuevas funcionalidades con React, HTML/CSS/JS. Optimización de UX y diseño responsivo para plataforma B2B.
+> React, HTML/CSS/JS. UI y diseño responsivo para plataforma B2B.
 
 **E-Software** — Developer Frontend *(Jun - Dic 2023)*
-> Mejoras en diseño y funcionalidad frontend. Optimización de consultas SQL para integridad de datos.
+> Frontend y optimización de consultas SQL.
 
 ---
 
